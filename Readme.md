@@ -33,4 +33,4 @@ The *Learn and Earn* project is designed to incentivize learning by rewarding us
 
 
 contract address:0xFf30aBd969214Be9303B027846D0d90C3a0fD7dC
-contact details: tidarsborah1234@gmail.com
+contact details: tidarsborah123@gmail.com
